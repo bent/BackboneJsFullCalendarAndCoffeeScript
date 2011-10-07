@@ -1,1 +1,1 @@
-Sample code for http://blog.shinetech.com/2011/08/05/building-a-shared-calendar-with-backbone-js-and-fullcalendar-a-step-by-step-tutorial/
+Fork of https://github.com/shinetech/BackboneJsAndFullCalendar that uses CoffeeScript instead of JavaScript.
